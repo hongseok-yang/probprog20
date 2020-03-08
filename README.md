@@ -68,7 +68,6 @@ Another measure that we take is not to have any face-to-face meetings between te
 * 06/01 (Mon) - Reparameterisation Gradient, Model Learning via ELBO, IWAE and Doubly-Reparameterised Gradient Estimator. 
 * 06/03 (Wed) - Group presentation 1: TBD.
 * 06/08 (Mon) - Group presentation 2: TBD.
-Denotational Semantics of Probabilistic Programs. 
 * 06/10 (Wed) - Denotational Semantics of Probabilistic Programs.
 * 06/15 (Mon) - Denotational Semantics of Probabilistic Programs.
 * 06/17 (Wed) - Denotational Semantics of Probabilistic Programs.
