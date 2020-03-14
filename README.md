@@ -21,7 +21,7 @@ the total marks are 100.
 
 #### [March 14] Project group.
 
-The group project is an important part of this course. Find your project partners by 13 March 2019, and inform all of Hongseok, Daeseok, and Kwonsoo by email. Each group should consist of 1-3 students. 
+The group project is an important part of this course. Find your project partners by 30 March 2020 (Monday), and inform all of Hongseok, Daeseok, and Kwonsoo by email by the midnight of 30 March 2020. Each group should consist of 1-3 students. (We allow a group of one student because of the special circumstance of moving a large amount of course activities online this year.)
 
 #### [March 8] Honour code.
 
@@ -68,30 +68,30 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 03/23 (Mon) - Basics of Clojure and Tiny Bit of Anglican.
 * 03/25 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
 * 03/30 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling.
-* 04/01 (Wed) - Generative Modelling with Anglican. 
+* 04/01 (Wed) - Advanced Topic on Importance Sampling.
 * 04/06 (Mon) - Generative Modelling with Anglican.
-* 04/08 (Wed) - Markov Chain Monte Carlo. 
+* 04/08 (Wed) - Generative Modelling with Anglican. 
 * 04/13 (Mon) - Markov Chain Monte Carlo.
 * __**04/15 (Wed) - NO LECTURE. Election Day.**__
 * 04/20 (Mon) - Markov Chain Monte Carlo.
-* 04/22 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. 
+* 04/22 (Wed) - Markov Chain Monte Carlo.
 * 04/27 (Mon) - Group Project Pitch.
-* 04/29 (Wed) - Implementing Inference Algorithms for Probabilistic Programs.
+* 04/29 (Wed) - Advanced Topic on Markov Chain Monte Carlo.
 * __**05/04 (Mon), 05/06 (Wed) - NO LECTURES. Midterm Exam.**__
 * 05/11 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
 * 05/13 (Wed) - Implementing Inference Algorithms for Probabilistic Programs.
-* 05/18 (Mon) - Stochastic Variational Inference.
+* 05/18 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
 * __**05/20 (Wed) - NO LECTURE. Graduate Admission.**__
 * 05/25 (Mon) - Stochastic Variational Inference. 
-* 05/27 (Wed) - Amortised Inference. 
-* 06/01 (Mon) - Reparameterisation Gradient, Model Learning via ELBO, IWAE and Doubly-Reparameterised Gradient Estimator. 
-* 06/03 (Wed) - Group presentation 1: TBD.
-* 06/08 (Mon) - Group presentation 2: TBD.
+* 05/27 (Wed) - Stochastic Variational Inference.
+* 06/01 (Mon) - Amortised Inference. 
+* 06/03 (Wed) - Advanced Topic on Variational Inference and Model Learning.
+* 06/08 (Mon) - Denotational Semantics of Probabilistic Programs.
 * 06/10 (Wed) - Denotational Semantics of Probabilistic Programs.
 * 06/15 (Mon) - Denotational Semantics of Probabilistic Programs.
-* 06/17 (Wed) - Denotational Semantics of Probabilistic Programs.
-* 06/22 (Mon) - Student Presentation
-* 06/24 (Wed) - Student Presentation
+* 06/17 (Wed) - Student Presentation.
+* 06/22 (Mon) - Student Presentation.
+* 06/24 (Wed) - Student Presentation.
 * __**06/29 (Mon), 07/01 (Wed) - NO LECTURES. Final Exam.**__
 
 ## 5. Studying Materials
