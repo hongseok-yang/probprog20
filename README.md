@@ -8,6 +8,21 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [March 14] Penality scheme for late homework submissions.
+
+Here is our scheme for handling late homework submissions. It assumes that
+the total marks are 100.
+
+1. <= One day late: -10
+2. <= Two days late: -20
+3. <= Three days late: -30
+4. <= Four days late: -40
+5. More than four days late: -100.
+
+#### [March 14] Project group.
+
+The group project is an important part of this course. Find your project partners by 13 March 2019, and inform all of Hongseok, Daeseok, and Kwonsoo by email. Each group should consist of 1-3 students. 
+
 #### [March 8] Honour code.
 
 The course will adopt very strict honour code. If a student is found to copy homework solutions from friends and other sources, he or she will get F. Similarly, if a student is found to do cheaing during exam, she or he will get F as well. 
@@ -33,7 +48,7 @@ Another measure that we take is not to have any face-to-face meetings between te
 #### Place and Time
 
 * Place: room 111 in the N1 building
-* Time: 1:00pm - 2:15pm on Monday and Wednesday from 16 March 2020 until 29 June 2020. For the first two weeks, we will have virtual online classes using ZOOM.
+* Time: 1:00pm - 2:15pm on Monday and Wednesday from 16 March 2020 until 29 June 2020. For the first weeks and possibly more, we will have virtual online classes using ZOOM.
 * Final exam: 1:00pm - 3:00pm on 10 June 2019 (Monday) at the room 111 in the N1 building.
 
 #### Online Discussion
@@ -42,9 +57,13 @@ Another measure that we take is not to have any face-to-face meetings between te
 
 ## 3. Homework
 
+Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
+
+* [Homework0](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework0/homework0.pdf) - Don't submit.
+
 ## 4. Tentative Plan
 
-* 03/16 (Mon) - Introduction. 
+* 03/16 (Mon) - Introduction. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture1/Lecture1.pdf). [Homework0](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework0/homework0.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework0/linear.clj)
 * 03/18 (Wed) - Basics of Clojure and Tiny Bit of Anglican. 
 * 03/23 (Mon) - Basics of Clojure and Tiny Bit of Anglican.
 * 03/25 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
