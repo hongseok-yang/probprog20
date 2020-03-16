@@ -41,7 +41,7 @@ Another measure that we take is not to have any face-to-face meetings between te
 
 #### Teaching Staffs
 
-* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hours: 6:00pm - 7:00pm on Monday at the room 3403 in the E3-1 building -- not for the first two weeks due to Covid-19)
+* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hours: 6:00pm - 7:00pm on Monday in ZOOM. You can find more information about it in KLMS.)
 * TA1: Gwonsoo Che (email: gwonsoo.che@gmail.com)
 * TA2: Daeseok Lee (email: daeseoklee@kaist.ac.kr)
 
