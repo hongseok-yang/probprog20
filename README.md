@@ -123,3 +123,7 @@ Frank Wood taught a graduate-level course on probabilistic programming at UBC. I
 8. Wood's [graduate-level course](https://www.cs.ubc.ca/~fwood/CS532W-539W/) at UBC.
 
 ## 6. Group Project
+
+1. Kwangjo Gong, Donghyeon Kim, Suho Yang
+2. Herin Park, Hyojin Shim
+3. Eunseob Kim, Sumin Shin
