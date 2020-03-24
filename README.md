@@ -66,7 +66,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 03/16 (Mon) - Introduction. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture1/Lecture1.pdf). [Homework0](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework0/homework0.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework0/linear.clj)
 * 03/18 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture2/).
 * 03/23 (Mon) - Basics of Clojure and Tiny Bit of Anglican.
-* 03/25 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
+* 03/25 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture3/Lecture3.pdf). 
 * 03/30 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling.
 * 04/01 (Wed) - Advanced Topic on Importance Sampling.
 * 04/06 (Mon) - Generative Modelling with Anglican.
@@ -124,6 +124,9 @@ Frank Wood taught a graduate-level course on probabilistic programming at UBC. I
 
 ## 6. Group Project
 
-#### groups formed so far
-
-*20160363 양수호, 20160085 김동현, 20160034 공광조 
+1. Kwangjo Gong, Donghyeon Kim, Suho Yang
+2. Herin Park, Hyojin Shim
+3. Eunseob Kim, Sumin Shin
+4. Taeyoung Kim, Janggeon Lee, Geon Park
+5. Michael Poli
+6. Sungmin Kang, Gabin An
