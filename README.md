@@ -131,4 +131,4 @@ Frank Wood taught a graduate-level course on probabilistic programming at UBC. I
 5. Michael Poli
 6. Gabin An, Sungmin Kang
 7. Jaemin Kim, Yunseok Lee
-8. Assem Zhunis, Tung Duong Mai
+8. Tung Duong Mai, Assem Zhunis
