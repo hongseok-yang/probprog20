@@ -68,15 +68,15 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 03/23 (Mon) - Basics of Clojure and Tiny Bit of Anglican.
 * 03/25 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture3/Lecture3.pdf). 
 * 03/30 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling.
-* 04/01 (Wed) - Advanced Topic on Importance Sampling.
-* 04/06 (Mon) - Generative Modelling with Anglican.
-* 04/08 (Wed) - Generative Modelling with Anglican. 
+* 04/01 (Wed) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/Lecture4.pdf). [Gorilla worksheet for 2D physics](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/PhysicsLec4.clj). [Gorilla worksheet for program induction](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/ProgIndLec4.clj). (Note: In order to run the 2D physics example, you will have to copy [bounce.clj](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/bounce.clj) to the anglican-user/src directory and replace anglican-user/project.clj by [this file](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/project.clj)).
+* 04/06 (Mon) - Markov Chain Monte Carlo.
+* 04/08 (Wed) - Markov Chain Monte Carlo.
 * 04/13 (Mon) - Markov Chain Monte Carlo.
 * __**04/15 (Wed) - NO LECTURE. Election Day.**__
-* 04/20 (Mon) - Markov Chain Monte Carlo.
-* 04/22 (Wed) - Markov Chain Monte Carlo.
+* 04/20 (Mon) - Advanced Topic on Markov Chain Monte Carlo.
+* 04/22 (Wed) - Advanced Topic on Markov Chain Monte Carlo.
 * 04/27 (Mon) - Group Project Pitch.
-* 04/29 (Wed) - Advanced Topic on Markov Chain Monte Carlo.
+* 04/29 (Wed) - Advanced Topic on Importance Sampling.
 * __**05/04 (Mon), 05/06 (Wed) - NO LECTURES. Midterm Exam.**__
 * 05/11 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
 * 05/13 (Wed) - Implementing Inference Algorithms for Probabilistic Programs.
