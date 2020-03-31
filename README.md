@@ -149,3 +149,4 @@ Frank Wood taught a graduate-level course on probabilistic programming at UBC. I
 14. Euojin Kim
 15. Daeseok Lee
 16. Dongyeun Lee
+17. Seokin Seo, Jinu Choi, Juhyung Park
