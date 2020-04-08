@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [April 8] No lecture on 15 April.
+
+The 15th of April is an election day in Korea. We won't have an online class  on that day.
+
 #### [March 28] [Homework1](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
 
 The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 8 April 2020 (Wednesday). 
