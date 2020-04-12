@@ -83,13 +83,13 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 03/30 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling.
 * 04/01 (Wed) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/Lecture4.pdf). [Gorilla worksheet for 2D physics](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/lecture4_physics.clj). [Gorilla worksheet for program induction](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/lecture4_progind.clj). (Note: In order to run the 2D physics example, you will have to copy [bounce.clj](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/bounce.clj) to the anglican-user/src directory and replace anglican-user/project.clj by [this file](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture4/project.clj)).
 * 04/06 (Mon) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture5/Lecture5.pdf). 
-* 04/08 (Wed) - Markov Chain Monte Carlo.
-* 04/13 (Mon) - Markov Chain Monte Carlo.
+* 04/08 (Wed) - Markov Chain Monte Carlo. 
+* 04/13 (Mon) - Annealed Importance Sampling. [Neal's original paper](https://arxiv.org/abs/physics/9803008).
 * __**04/15 (Wed) - NO LECTURE. Election Day.**__
 * 04/20 (Mon) - Advanced Topic on Markov Chain Monte Carlo.
 * 04/22 (Wed) - Advanced Topic on Markov Chain Monte Carlo.
 * 04/27 (Mon) - Group Project Pitch.
-* 04/29 (Wed) - Advanced Topic on Importance Sampling.
+* 04/29 (Wed) - Group Project Pitch.
 * __**05/04 (Mon), 05/06 (Wed) - NO LECTURES. Midterm Exam.**__
 * 05/11 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
 * 05/13 (Wed) - Implementing Inference Algorithms for Probabilistic Programs.
