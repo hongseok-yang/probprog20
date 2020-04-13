@@ -147,16 +147,13 @@ Frank Wood taught a graduate-level course on probabilistic programming at UBC. I
 2. Herin Park, Hyojin Shim
 3. Eunseob Kim, Sumin Shin
 4. Taeyoung Kim, Janggun Lee, Geon Park
-5. Michael Poli
-6. Gabin An, Sungmin Kang
-7. Jaemin Kim, Yunseok Lee
-8. Tung Duong Mai, Assem Zhunis
-9. Taehyouk Cho
-10. Euicheon Lee, Hyunjae Lee
-11. Hongchan An
-12. Yujin Nam
-13. Dongjoon Yun
-14. Euojin Kim
-15. Daeseok Lee
-16. Dongyeun Lee
-17. Seokin Seo, Jinu Choi, Juhyung Park
+5. Gabin An, Sungmin Kang
+6. Jaemin Kim, Yunseok Lee
+7. Tung Duong Mai, Assem Zhunis
+8. Taehyouk Cho
+9. Euicheon Lee, Hyunjae Lee
+10. Hongchan An
+11. Dongjoon Yun
+12. Euojin Kim
+13. Daeseok Lee
+14. Seokin Seo, Jinu Choi, Juhyung Park
