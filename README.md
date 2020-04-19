@@ -8,6 +8,36 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [April 19] Group project pitch on 27/29 April
+
+On the 27 and 29 of April, we will have project-pitch sessions in our ZOOM online classes. This means that each group will have 10 minutes to explain what they plan to do for their group project and to get feedback from me and other participants. Here is the schedule for project-pitch presentations in those two days.
+
+* 27 April (Monday)
+
+1. Kwangjo Gong, Donghyeon Kim, Suho Yang
+2. Herin Park, Hyojin Shim
+3. Eunseob Kim, Sumin Shin
+4. Taeyoung Kim, Janggun Lee, Geon Park
+5. Gabin An, Sungmin Kang
+6. Jaemin Kim, Yunseok Lee
+7. Tung Duong Mai, Assem Zhunis
+
+* 29 April (Wednesday)
+
+1. Taehyouk Cho
+2. Euicheon Lee, Hyunjae Lee
+3. Hongchan An
+4. Dongjoon Yun
+5. Euojin Kim
+6. Daeseok Lee
+7. Seokin Seo, Jinu Choi, Juhyung Park
+
+So, each group should prepare a 8-min presentation on what they plan to do on the project. In the presentation, they can explain what problem or challenge related to probabilistic programming they want to solve, why they want to do this, how they plan to attack the problem or challenge using probabilistic programming systems, and what others have done in that domain. But this is just my suggestion, and each group may pick the format of presentation. Think of this as a good opportunity to get feedback from your friends in the class.
+
+Doing this presentation is a part of your project. So, don't miss it. Although we strongly encourage you to present it in English, it is acceptable to give a talk in Korean. But even in that case, make sure that your slides are written in English, so that non-native Korean speakers at least have some idea about what goes on.
+
+It is ok to change your plan later. It is also ok that your project may fail to achieve the original goal even if you work hard on it. When we mark your project, we will consider all of these.
+
 #### [April 12] [Homework2](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework2/homework2-questions.pdf) is out.
 
 The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 22 April 2020 (Wednesday). 
