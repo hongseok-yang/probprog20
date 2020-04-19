@@ -92,18 +92,18 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 04/13 (Mon) - Annealed Importance Sampling. [Neal's original paper](https://arxiv.org/abs/physics/9803008). Copies of virtual whiteboards ([Note1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture5/MCMC_AIS1.png), 
 [Note2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture5/MCMC_AIS2.png), [Note3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture5/MCMC_AIS3.png)).
 * __**04/15 (Wed) - NO LECTURE. Election Day.**__
-* 04/20 (Mon) - Advanced Topic on Markov Chain Monte Carlo.
-* 04/22 (Wed) - Advanced Topic on Markov Chain Monte Carlo.
+* 04/20 (Mon) - Implementing Inference Algorithms for Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/Lecture6.pdf). [Note](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/Note6.pdf). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board1.jpg), [2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board2.jpg), [3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board3.jpg), [4](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board4.jpg), [5](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board5.jpg), [6](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board6.jpg), [7](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board7.jpg), [8](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board8.jpg), [9](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board9.jpg), [10](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/board10.jpg).
+* 04/22 (Wed) - Implementing Inference Algorithms for Probabilistic Programs.
 * 04/27 (Mon) - Group Project Pitch.
 * 04/29 (Wed) - Group Project Pitch.
 * __**05/04 (Mon), 05/06 (Wed) - NO LECTURES. Midterm Exam.**__
 * 05/11 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
-* 05/13 (Wed) - Implementing Inference Algorithms for Probabilistic Programs.
-* 05/18 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
+* 05/13 (Wed) - Stochastic Variational Inference. 
+* 05/18 (Mon) - Stochastic Variational Inference. 
 * __**05/20 (Wed) - NO LECTURE. Graduate Admission.**__
-* 05/25 (Mon) - Stochastic Variational Inference. 
-* 05/27 (Wed) - Stochastic Variational Inference.
-* 06/01 (Mon) - Amortised Inference. 
+* 05/25 (Mon) - Amortised Inference. 
+* 05/27 (Wed) - Amortised Inference. 
+* 06/01 (Mon) - Advanced Topic on Variational Inference and Model Learning.
 * 06/03 (Wed) - Advanced Topic on Variational Inference and Model Learning.
 * 06/08 (Mon) - Denotational Semantics of Probabilistic Programs.
 * 06/10 (Wed) - Denotational Semantics of Probabilistic Programs.
