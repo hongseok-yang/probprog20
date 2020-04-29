@@ -30,7 +30,7 @@ On the 27 and 29 of April, we will have project-pitch sessions in our ZOOM onlin
 4. Dongjoon Yun
 5. Euojin Kim
 6. Daeseok Lee
-7. Seokin Seo, Jinu Choi, Juhyung Park
+7. Seokin Seo, Jinu Choi
 
 So, each group should prepare a 8-min presentation on what they plan to do on the project. In the presentation, they can explain what problem or challenge related to probabilistic programming they want to solve, why they want to do this, how they plan to attack the problem or challenge using probabilistic programming systems, and what others have done in that domain. But this is just my suggestion, and each group may pick the format of presentation. Think of this as a good opportunity to get feedback from your friends in the class.
 
