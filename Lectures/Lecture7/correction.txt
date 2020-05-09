@@ -1,0 +1,20 @@
+1. The type of P should be revised as follows:
+
+P : Label x DistConst -> DistConst x Value^*
+
+2. I used the addition of two sequences. When the sequences have different lengths,
+their addition should be understood as the following two-step process. First, we
+extend a shorter sequence by adding 0 so that both sequences have the same length.
+Next, we add these sequences of the same length.
+
+3. In the third handwritten note, the weight update should be
+
+w x p0/q0
+
+instead of w x q0/p0.
+
+4. Also, the updated gradient in the step (c) of the top-level algorithm should be
+
+g' + eta x 1/K x sum_{k=1}^K (log w_k) x G_k(alpha,d).
+
+Note that the (log w_k) term is inserted in the formula.
