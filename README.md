@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [May 9] [Homework3](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework3/homework3-questions.pdf) is out.
+
+The homework assignment 3 is out. Submit your solutions in KLMS by 6:00pm on 29 May 2020 (Friday).
+
 #### [April 19] Group project pitch on 27/29 April
 
 On the 27 and 29 of April, we will have project-pitch sessions in our ZOOM online classes. This means that each group will have 10 minutes to explain what they plan to do for their group project and to get feedback from me and other participants. Here is the schedule for project-pitch presentations in those two days.
@@ -108,6 +112,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * [Homework0](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework0/homework0.pdf) - Don't submit.
 * [Homework1](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework1/homework1-questions.pdf) - Deadline: 6:00pm on 8 April 2020.
 * [Homework2](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework2/homework2-questions.pdf) - Deadline: 6:00pm on 22 April 2020.
+* [Homework3](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework3/homework3-questions.pdf) - Deadline: 6:00pm on 29 May 2020.
 
 ## 4. Tentative Plan
 
@@ -127,7 +132,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 04/29 (Wed) - Group Project Pitch.
 * __**05/04 (Mon), 05/06 (Wed) - NO LECTURES. Midterm Exam.**__
 * 05/11 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
-* 05/13 (Wed) - Stochastic Variational Inference. 
+* 05/13 (Wed) - Stochastic Variational Inference. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/Lecture7.pdf). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board3.jpg)). Correction: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/correction.txt). 
 * 05/18 (Mon) - Stochastic Variational Inference. 
 * __**05/20 (Wed) - NO LECTURE. Graduate Admission.**__
 * 05/25 (Mon) - Amortised Inference. 
