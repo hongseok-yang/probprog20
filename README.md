@@ -132,8 +132,8 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 04/29 (Wed) - Group Project Pitch.
 * __**05/04 (Mon), 05/06 (Wed) - NO LECTURES. Midterm Exam.**__
 * 05/11 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
-* 05/13 (Wed) - Stochastic Variational Inference. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/Lecture7.pdf). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board3.jpg)). Correction: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/correction.txt). 
-* 05/18 (Mon) - Stochastic Variational Inference. 
+* 05/13 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. Copies of virtual whiteboards ([Note1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/May18Board1.png), [Note2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/May18Board2.png), [Note3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/May18Board3.png), [Note4](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/May18Board1.png), [Note5](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture6/May18Board2.png)).
+* 05/18 (Mon) - Stochastic Variational Inference. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/Lecture7.pdf). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/board3.jpg)). Correction: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture7/correction.txt). 
 * __**05/20 (Wed) - NO LECTURE. Graduate Admission.**__
 * 05/25 (Mon) - Amortised Inference. 
 * 05/27 (Wed) - Amortised Inference. 
