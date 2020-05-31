@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [May 31] [Homework4](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
+
+The homework assignment 4 is out. Submit your solutions in KLMS by 6:00pm on 17 June 2020 (Wednesday).
+
 #### [May 9] [Homework3](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework3/homework3-questions.pdf) is out.
 
 The homework assignment 3 is out. Submit your solutions in KLMS by 6:00pm on 29 May 2020 (Friday).
@@ -113,6 +117,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * [Homework1](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework1/homework1-questions.pdf) - Deadline: 6:00pm on 8 April 2020.
 * [Homework2](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework2/homework2-questions.pdf) - Deadline: 6:00pm on 22 April 2020.
 * [Homework3](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework3/homework3-questions.pdf) - Deadline: 6:00pm on 29 May 2020.
+* [Homework4](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework4/homework4-questions.pdf) - Deadline: 6:00pm on 17 June 2020.
 
 ## 4. Tentative Plan
 
