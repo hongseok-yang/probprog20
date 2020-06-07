@@ -142,9 +142,9 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * __**05/20 (Wed) - NO LECTURE. Graduate Admission.**__
 * 05/25 (Mon) - Stochastic Variational Inference.
 * 05/27 (Wed) - Amortised Inference. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture8/Lecture8.pdf). 
-* 06/01 (Mon) - Advanced Topic on Variational Inference and Model Learning.
-* 06/03 (Wed) - Advanced Topic on Variational Inference and Model Learning.
-* 06/08 (Mon) - Denotational Semantics of Probabilistic Programs.
+* 06/01 (Mon) - Reparameterisation Gradient, Model Learning via ELBO, IWAE and Doubly-Reparameterised Gradient Estimator. Handwritten Notes: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture9/note1.jpeg), [2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture9/note2.jpeg), [3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture9/note3.jpeg), [4](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture9/note4.jpeg). Incomprehensible Handwritten Notes on Doubly-Reparameterised Gradient Estimator: [1](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture9/appendix1.jpeg), [2](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture9/appendix2.jpeg), [3](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture9/appendix3.jpeg).
+* 06/03 (Wed) - Reparameterisation Gradient, Model Learning via ELBO, IWAE and Doubly-Reparameterised Gradient Estimator. 
+* 06/08 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture10/Lecture10.pdf). [Note](https://github.com/hongseok-yang/probprog20/blob/master/Lectures/Lecture10/Note10.pdf). 
 * 06/10 (Wed) - Denotational Semantics of Probabilistic Programs.
 * 06/15 (Mon) - Denotational Semantics of Probabilistic Programs.
 * 06/17 (Wed) - Student Presentation.
