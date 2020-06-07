@@ -10,7 +10,30 @@ This course has two goals. The first is to help students to be a good user of an
 
 #### [June 7] Group project presentation on 17/22/24 June
 
-The last three lectures of the course will consist of project presentations. Each group will have 15 minutes to explain what they did and experienced during their project. The groups 1-5 will present on 17 June, the groups 6-10 on 22 June, and the remaining groups 11-14 on 24 June. In addition to this group presentationm, each group should write a short report (max 3 pages) summarising what they did and learnt during the group project.
+The last three lectures of the course will consist of project presentations. Each group will have 15 minutes to explain what they did and experienced during their project. The groups 1-5 will present on 17 June, the groups 6-10 on 22 June, and the remaining groups 11-14 on 24 June. In addition to this group presentation, each group should write a short report (max 3 pages) summarising what they did and learnt during the group project.
+
+* 17 June (Wednesday)
+
+1. Kwangjo Gong, Donghyeon Kim
+2. Herin Park, Hyojin Shim
+3. Eunseob Kim, Sumin Shin
+4. Taeyoung Kim, Janggun Lee, Geon Park
+5. Gabin An, Sungmin Kang
+
+* 22 June (Monday)
+
+6. Jaemin Kim, Yunseok Lee
+7. Tung Duong Mai, Assem Zhunis
+8. Taehyouk Cho
+9. Euicheon Lee, Hyunjae Lee
+10. Hongchan An
+
+* 24 June (Wednesday)
+
+11. Dongjoon Yun
+12. Euojin Kim
+13. Daeseok Lee
+14. Seokin Seo, Jinu Choi, Juhyung Park
 
 #### [May 31] [Homework4](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
 
@@ -186,7 +209,7 @@ Frank Wood taught a graduate-level course on probabilistic programming at UBC. I
 
 ## 6. Group Project
 
-1. Kwangjo Gong, Donghyeon Kim, Suho Yang
+1. Kwangjo Gong, Donghyeon Kim
 2. Herin Park, Hyojin Shim
 3. Eunseob Kim, Sumin Shin
 4. Taeyoung Kim, Janggun Lee, Geon Park
