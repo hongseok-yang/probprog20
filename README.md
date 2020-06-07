@@ -8,6 +8,12 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [June 7] Information about final exam
+
+The final exam will be take-home. The exam questions will become available from KLMS at 10am on 29 June (Monday). You will have to submit your answers in KLMS by 10pm on the same date. That is, you will be given 12 hours. It is ok to look at the materials from KLMS and the course webpage: lecture notes/slides, recorded lectures in KLMS, Q&A in KLMS, and homework sheets. That is, you can use anything from the KLMS page and the course webpage. But you shouldn't use anything beyond. For instance, you should not use the online materials linked to in the course webpage. If you are found to violate the honour code (for instance, by exchanging information with your friends or googling information), you will get F automatically; we may also report the incident to the department and the university.
+
+Because of some fairness issue, we might be unable to answer questions during the exam. We will try to make exam questions as clear as possible so that no questions really arise. However, if you find that something is ambiguous during the exam and we cannot answer your questions, we advise you to make assumptions and write down those assumptions explicitly in your answers.
+
 #### [June 7] Group project presentation on 17/22/24 June
 
 The last three lectures of the course will consist of project presentations. Each group will have 15 minutes to explain what they did and experienced during their project. The groups 1-5 will present on 17 June, the groups 6-10 on 22 June, and the remaining groups 11-14 on 24 June. In addition to this group presentation, each group should write a short report (max 3 pages) summarising what they did and learnt during the group project, and submit the report in KLMS. The deadline for the project report is 6:00pm on 25 June (Friday). This is a hard deadline; late submissions are not allowed. One report is enough for each group.
