@@ -10,7 +10,7 @@ This course has two goals. The first is to help students to be a good user of an
 
 #### [June 7] Group project presentation on 17/22/24 June
 
-The last three lectures of the course will consist of project presentations. Each group will have 15 minutes to explain what they did and experienced during their project. The groups 1-5 will present on 17 June, the groups 6-10 on 22 June, and the remaining groups 11-14 on 24 June. In addition to this group presentation, each group should write a short report (max 3 pages) summarising what they did and learnt during the group project, and submit the report in KLMS. The deadline for the project report is 6:00pm on 25 June (Friday). This is a hard deadline; late submissions are not allowed.
+The last three lectures of the course will consist of project presentations. Each group will have 15 minutes to explain what they did and experienced during their project. The groups 1-5 will present on 17 June, the groups 6-10 on 22 June, and the remaining groups 11-14 on 24 June. In addition to this group presentation, each group should write a short report (max 3 pages) summarising what they did and learnt during the group project, and submit the report in KLMS. The deadline for the project report is 6:00pm on 25 June (Friday). This is a hard deadline; late submissions are not allowed. One report is enough for each group.
 
 * 17 June (Wednesday)
 
