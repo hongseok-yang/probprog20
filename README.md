@@ -8,6 +8,17 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [June 8] Group presentations on 24 June
+
+Because of a special circumstance of some students, we will have to change the order of group project presentations on the 24th of June. The new order is:
+
+[Group 14] Seokin Seo, Jinu Choi, Juhyung Park
+[Group 11] Dongjoon Yun
+[Group 12] Euojin Kim
+[Group 13] Daeseok Lee
+
+We hope that those who get affected understand it. 
+
 #### [June 7] Information about final exam
 
 The final exam will be take-home. The exam questions will become available from KLMS at 10am on 29 June (Monday). You will have to submit your answers in KLMS by 10pm on the same date. That is, you will be given 12 hours. It is ok to look at the materials from KLMS and the course webpage: lecture notes/slides, recorded lectures in KLMS, Q&A in KLMS, and homework sheets. That is, you can use anything from the KLMS page and the course webpage. But you shouldn't use anything beyond. For instance, you should not use the online materials linked to in the course webpage. If you are found to violate the honour code (for instance, by exchanging information with your friends or googling information), you will get F automatically; we may also report the incident to the department and the university.
