@@ -12,10 +12,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 Because of a special circumstance of some students, we will have to change the order of group project presentations on the 24th of June. The new order is:
 
-[Group 14] Seokin Seo, Jinu Choi, Juhyung Park
-[Group 11] Dongjoon Yun
-[Group 12] Euojin Kim
-[Group 13] Daeseok Lee
+* [Group 14] Seokin Seo, Jinu Choi, Juhyung Park
+* [Group 11] Dongjoon Yun
+* [Group 12] Euojin Kim
+* [Group 13] Daeseok Lee
 
 We hope that those who get affected understand it. 
 
