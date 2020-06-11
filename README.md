@@ -31,7 +31,6 @@ The last three lectures of the course will consist of project presentations. Eac
 
 * 17 June (Wednesday)
 
-1. Kwangjo Gong, Donghyeon Kim
 2. Herin Park, Hyojin Shim
 3. Eunseob Kim, Sumin Shin
 4. Taeyoung Kim, Janggun Lee, Geon Park
@@ -51,6 +50,7 @@ The last three lectures of the course will consist of project presentations. Eac
 12. Euojin Kim
 13. Daeseok Lee
 14. Seokin Seo, Jinu Choi, Juhyung Park
+1. Kwangjo Gong, Donghyeon Kim
 
 #### [May 31] [Homework4](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
 
