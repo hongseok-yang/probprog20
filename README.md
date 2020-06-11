@@ -46,10 +46,10 @@ The last three lectures of the course will consist of project presentations. Eac
 
 * 24 June (Wednesday)
 
+14. Seokin Seo, Jinu Choi, Juhyung Park
 11. Dongjoon Yun
 12. Euojin Kim
 13. Daeseok Lee
-14. Seokin Seo, Jinu Choi, Juhyung Park
 1. Kwangjo Gong, Donghyeon Kim
 
 #### [May 31] [Homework4](https://github.com/hongseok-yang/probprog20/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
