@@ -40,7 +40,6 @@ The last three lectures of the course will consist of project presentations. Eac
 
 6. Jaemin Kim, Yunseok Lee
 7. Tung Duong Mai, Assem Zhunis
-8. Taehyouk Cho
 9. Euicheon Lee, Hyunjae Lee
 10. Hongchan An
 
